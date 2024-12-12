@@ -1,0 +1,169 @@
+body{
+    background-color: #e6f2ff;
+}
+.con{
+    position: relative;
+    width: 730px;
+    height: 480px;
+    background-color:white;
+    border-radius: 14px;
+    margin: 130px auto;
+}
+.h1{
+    position: absolute;
+    font-size: x-large;
+    margin: 30px 40px;
+    font-family: sans-serif;
+}
+.con2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color:white;
+    border-radius: 7px;
+    margin: 90px 30px;
+    border: 1px solid ;
+
+}
+.h2{
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+    margin: 15px 17px;
+}
+.btn1{
+    position: absolute;
+    border-radius: 5px;
+    margin: 45px 23px;
+    padding: 10px 30px;
+    background-color:#4d88ff;
+    color: white;
+    box-sizing: border-box;
+}
+.btn2{
+    position: absolute;
+    border-radius: 5px;
+    margin: 45px 160px;
+    padding: 10px 30px;
+    background-color: white;
+    color: lightslategray;
+    box-sizing: border-box;
+}
+.btn3{
+    position: absolute;
+    border-radius: 5px;
+    margin: 90px 160px;
+    padding: 9.5px 30.5px;
+    background-color: white;
+    color: lightslategray;
+    box-sizing: border-box;
+}
+.btn4{
+    position: absolute;
+    border-radius: 2px;
+    margin: 89px 24px;
+    padding: 9.5px 34px;
+    background-color: white;
+    color:lightslategray;
+    border-radius: 5px;
+}
+.p1{
+    position: absolute;
+    font-family:sans-serif;
+    margin: 190px 18px;
+    font-size: 22px;
+}
+.fa-rotate-left{
+    position: absolute;
+    margin: 230px 30px;
+    font-size: xx-large;
+    box-shadow: 10px;
+    color: black;
+}
+.fa-rotate-right{
+    position: absolute;
+    margin: 230px 70px;
+    font-size: xx-large;
+
+}
+.fa-rotate-left:hover{
+    color: #4d88ff;
+    border-radius: 360px;
+}
+.fa-rotate-right:hover{
+    color: #4d88ff;
+    border-radius: 360px;
+}
+.fa-crop{
+    position: absolute;
+    margin: 230px 130px;
+    font-size: xx-large;
+
+
+}
+.fa-broom{
+    position: absolute;
+    margin: 230px 170px;
+    font-size: xx-large;
+}
+.fa-broom:hover{
+    color:#4d88ff//////;
+    border-radius: 360px;
+}
+.fa-crop:hover{
+    
+    color: #4d88ff;
+}
+.btn5{
+    position: absolute;
+    background-color: white;
+    color: lightslategray;
+    border-radius: 5px;
+    margin: 327px 1px;
+    padding: 15px 35px;
+}
+.img{
+    position: absolute;
+    margin: 85px 339px;
+    height: 307px;
+    width: 390px;
+    border-radius: 4px;
+}
+.btn6{
+    position: absolute;
+    background-color: rgba(92, 98, 104, 0.596);
+    color: white;
+    margin: 416px 390px;
+    padding: 7px 50px;
+    border-radius: 7px;
+}
+.btn7{
+    position: absolute;
+    background-color:#4d88ff;
+    color: white;
+    margin: 416px 560px;
+    padding: 7px 60px;
+    border-radius: 7px;
+}
+.btn1:hover{
+    background-color:black;
+}
+.btn2:hover{
+    background-color: black;
+}
+.btn3:hover{
+    background-color: black;
+}
+.btn4:hover{
+    background-color: black;
+}
+.btn5:hover{
+    background-color: rgb(67, 67, 167);
+}
+.btn6:hover{
+    background-color: rgb(67, 67,167);
+}
+.btn7:hover{
+    background-color:rgb(67,67, 167);
+}
